@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd6f5ca2-5b67-436e-a8eb-992cdc14df98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2D8CpURU3JPcYxPCeM1mTzEN0eg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson1/src/main/webapp/WEB-INF/log4j.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd6f5ca2-5b67-436e-a8eb-992cdc14df98" name="Default Changelist" comment="" />
+      <created>1660071507060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660071507060</updated>
+      <workItem from="1660071510620" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="64" key="#Project_Structure" timestamp="1660071620218">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="64" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1660071620218" />
+    <state x="295" y="244" key="FileChooserDialogImpl" timestamp="1660071651992">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="295" y="244" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1660071651992" />
+    <state width="962" height="235" key="GridCell.Tab.0.bottom" timestamp="1660071655224">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="962" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1660071655224" />
+    <state width="962" height="235" key="GridCell.Tab.0.center" timestamp="1660071655224">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="962" height="235" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1660071655224" />
+    <state width="962" height="235" key="GridCell.Tab.0.left" timestamp="1660071655224">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="962" height="235" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1660071655224" />
+    <state width="962" height="235" key="GridCell.Tab.0.right" timestamp="1660071655224">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="962" height="235" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1660071655224" />
+    <state x="0" y="150" key="new project wizard" timestamp="1660071654057">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="150" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1660071654057" />
+  </component>
+</project>
